@@ -3,6 +3,7 @@ Golang每日一库
 
 ## 缓存
 - redis分布式锁：https://github.com/go-redsync/redsync
+- freecache零GC内存缓存组件：https://github.com/coocood/freecache
 
 ## 数据库
 
@@ -12,7 +13,8 @@ Golang每日一库
 
 
 ### 微服务框架
-- go-micro：https://github.com/go-micro
+- go-micro：https://github.com/go-micro 
+- go-micro/plugins https://github.com/go-micro/plugins
 
 
 ## 工具类
