@@ -14,7 +14,8 @@ Golang每日一库
 
 ### 微服务框架
 - go-micro：https://github.com/go-micro 
-- go-micro/plugins https://github.com/go-micro/plugins
+- go-micro/plugins：https://github.com/go-micro/plugins
+- kafka客户端：https://github.com/IBM/sarama
 
 
 ## 工具类
