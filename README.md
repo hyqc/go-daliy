@@ -8,6 +8,10 @@ Golang每日一库
 ## 数据库
 
 ## Golang
+
+### 游戏框架
+- zinx：https://github.com/aceld/zinx
+
 ### Web框架
 - gin：https://github.com/gin-gonic/gin
 
